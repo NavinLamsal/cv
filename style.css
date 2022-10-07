@@ -17,7 +17,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: center; 
-     color: white;
+     color: rgb(0, 0, 0);
     font-size: 20px;
     border-radius: 100%;
 }
@@ -25,19 +25,19 @@ facebook a:hover{
     background-color: white;
     color: blue;
 }
-.instagram a:hover{
+instagram a:hover{
     background-color: rgb(168, 58, 39);
     color: white;
 }
-.github a:hover{
+github a:hover{
     background-color: rgba(187, 20, 20, 0.562);
     color: black;
 }
-.twitter a:hover{
+twitter a:hover{
     background-color:rgb(245, 246, 250) ;
     color: rgb(45, 140, 218);
 }
-.linkedin a:hover{
+linkedin a:hover{
     background-color: rgb(45, 140, 218);
     color: rgb(245, 246, 250);
 }
