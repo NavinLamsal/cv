@@ -21,23 +21,23 @@
     font-size: 20px;
     border-radius: 100%;
 }
-facebook a:hover{
+.facebook a:hover{
     background-color: white;
     color: blue;
 }
-instagram a:hover{
-    background-color: rgb(168, 58, 39);
-    color: white;
+.instagram a:hover{
+    background-color:white;
+    color: #f09433;
 }
-github a:hover{
-    background-color: rgba(187, 20, 20, 0.562);
-    color: black;
+.github a:hover{
+    background-color: white;
+    color: brown;
 }
-twitter a:hover{
+.twitter a:hover{
     background-color:rgb(245, 246, 250) ;
     color: rgb(45, 140, 218);
 }
-linkedin a:hover{
-    background-color: rgb(45, 140, 218);
-    color: rgb(245, 246, 250);
+.linkedin a:hover{
+    background-color:rgb(245, 246, 250);
+    color: rgb(45, 140, 218) ;
 }
